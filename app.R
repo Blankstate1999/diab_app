@@ -34,7 +34,7 @@ head(tdd_date)
 
 # Create app user interface
 ui <- fluidPage(
-  titlePanel("Total daily dose"),
+  titlePanel("Diabetes Tracker"),
   
   sidebarLayout(
     sidebarPanel( 

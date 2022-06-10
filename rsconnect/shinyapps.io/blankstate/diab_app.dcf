@@ -1,0 +1,14 @@
+name: diab_app
+title: diab_app
+username:
+account: blankstate
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6466673
+bundleId: 5996461
+url: https://blankstate.shinyapps.io/diab_app/
+when: 1654871660.74864
+lastSyncTime: 1654871660.74865
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
