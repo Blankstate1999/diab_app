@@ -19,6 +19,6 @@ Plot 2 shows Skyla's total daily basal as a percentage of her total daily dose (
 
 ---
 
-**Designer** Lee Mercer
-**GitHub Username** BlankState1999
-**Email** leecraigmercer@gmail.com
+* **Designer** Lee Mercer
+* **GitHub Username** BlankState1999
+* **Email** leecraigmercer@gmail.com
